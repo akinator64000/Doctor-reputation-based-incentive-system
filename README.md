@@ -29,8 +29,8 @@ This smart contract implements a reputation system for doctors with the followin
 
 ### Key Functions
 
-`register_doctor`: Allows a doctor to register in the system
- `rate_doctor` : Allows a user to rate a doctor and triggers automatic rewards for high ratings
+- `register_doctor`: Allows a doctor to register in the system
+ - `rate_doctor`: Allows a user to rate a doctor and triggers automatic rewards for high ratings
 
 Quick Start
 Setup
